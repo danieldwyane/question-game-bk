@@ -1,0 +1,1 @@
+INSERT INTO QG_QUESTION (ID, QUESTION) VALUES (1, '¿Quien es Salomon?');
